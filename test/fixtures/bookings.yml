@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  check_in: 2023-08-28
+  check_out: 2023-08-28
+  room: one
+  hotel: one
+
+two:
+  check_in: 2023-08-28
+  check_out: 2023-08-28
+  room: two
+  hotel: two
